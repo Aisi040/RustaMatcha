@@ -716,6 +716,12 @@ section {
   min-height: 500px;
 }
 
+.aboutRM2 {
+  background: url("../img/about-img2.jpg") center 80% no-repeat;
+  background-size: 85%;
+  min-height: fit-content
+}
+
 .about .play-btn {
   width: 94px;
   height: 94px;

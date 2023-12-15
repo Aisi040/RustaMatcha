@@ -710,8 +710,16 @@ section {
   font-size: 14px;
 }
 
+/*
 .about .video-box {
   background: url("../img/about-img.jpg") center center no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+*/
+
+.about .video-box {
+  background: url("../img/business-partnership.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
